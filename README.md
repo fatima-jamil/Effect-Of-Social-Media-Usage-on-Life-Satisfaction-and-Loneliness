@@ -1,1 +1,1 @@
-Taking input from people with the help of google form and then analyze the data to know the effect of social media usage on people life satishfaction and loneliness, and train a Machine learning model on the data to predict loneliness and life satishfaction score of a person.
+Taking input from people with the help of google form and then analyze the data to know the effect of social media usage on people life satisfaction and loneliness, and train a Machine learning model on the data to predict loneliness and life satisfaction score of a person.
